@@ -1,2 +1,2 @@
 # FroggerClone
-Frogger clone created in unity for the course COMP521 Modern Computer Games
+Frogger clone created in Unity for the course COMP521 Modern Computer Games
